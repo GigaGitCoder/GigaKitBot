@@ -1,10 +1,10 @@
 """
 Modules/news_module.py — модуль новостей и погоды для тамагочи
-✅ Источники: Forbes (финансы), StopGame (игры), RIA (политика/финансы)
-✅ AI: Groq API с эмоциональными реакциями
-✅ Погода: Open-Meteo (Ростов-на-Дону)
-✅ Локальный fallback при ошибке API
-✅ Скрытые логи (только DEBUG)
+Источники: Forbes (финансы), StopGame (игры), RIA (политика/финансы)
+AI: Groq API с эмоциональными реакциями
+Погода: Open-Meteo (Ростов-на-Дону)
+Локальный fallback при ошибке API
+Скрытые логи (только DEBUG)
 
 Зависимости:
   pip install httpx beautifulsoup4 python-dotenv
