@@ -7,3 +7,5 @@
 
 3. Запустить:
    python bot.py
+
+> [Полный README](FULL_README.md)
